@@ -1,4 +1,4 @@
-public class 두수의곱 {
+public class 두수의_곱 {
     public static void main(String[] args) {
         System.out.print( solution(4,9));
     }
