@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+codingTest.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
@@ -27,7 +29,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-# intellij project files
-.gradle
-build
