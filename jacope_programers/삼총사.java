@@ -5,7 +5,7 @@ public class 삼총사 {
         int[] intArray = {-2, 3, 0, 2, -5};
         String[] strArray = {};
 
-        System.out.print(solution());
+        System.out.print(solution(intArray));
     }
 
     public static int solution(int[] number) {
