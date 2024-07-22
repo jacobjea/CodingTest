@@ -26,7 +26,7 @@ public class 카펫 {
                 // 가로임
                 height = total / width;
                 if ((width -2) * (height -2) == yellow){
-                    break;e
+                    break;
                 }
             }
         }
