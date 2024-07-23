@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class 스택구현 {
+public class 스택구현_배열 {
     public static void main(String[] args) {
 
         ArrayStack stack = new ArrayStack(5);
